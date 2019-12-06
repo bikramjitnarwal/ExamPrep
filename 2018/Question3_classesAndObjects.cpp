@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 /*
 
 #include "YetAnotherMystery . h"
@@ -28,4 +26,4 @@ allowed.
 Write the line Amy should add
 */
 
-friend void mysterious (); // added as a friend 
+friend void Mystery::mysterious (); // added as a friend 
