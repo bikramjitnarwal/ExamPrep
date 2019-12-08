@@ -37,7 +37,7 @@ int main(int argc, char **argv)
 	// part d)
 	int j = 10; 
 	// declare and initialize i:
-	
+	int *i[2] = {&j, &j}; // array of pointers
 	cout << *(i[0]) << endl; // 10
 	j = 5;
 	cout << *(i[1]) << endl; // 5
