@@ -22,6 +22,6 @@ void deleteBSR(TreeNode *root){
 	if(root == NULL) return;
 	
 	deleteBST(root->left);
-	deleteBST(root->left);
+	deleteBST(root->right);
 	free(root);
 }
