@@ -26,4 +26,4 @@ allowed.
 Write the line Amy should add
 */
 
-friend void Mystery::mysterious (); // added as a friend 
+friend void mysterious (); // added as a friend 
