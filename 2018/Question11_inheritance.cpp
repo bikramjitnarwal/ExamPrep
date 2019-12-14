@@ -69,5 +69,5 @@ firstOne b( "G"); // Constructor 2 of firstOne done
 secondOne c ( "N"); // Constructor 1 of firstOne done
                     // Constructor 1 of secondOne done
 
-secondOne d(8);		// Constructor 2 of firstOne done
-					// Constructor 2 of secondOne done
+secondOne d(8);	// Constructor 2 of firstOne done
+		// Constructor 2 of secondOne done
