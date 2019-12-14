@@ -1,6 +1,6 @@
 # ExamPrep
 
-This repo contains the solutions to past ECE244 questions. 
+This repo contains the solutions to past ECE244 questions. Not all questions were put in this repo due to lack of code in the question or due to time restrictions from exam season. 
 
 Questions include topics from the following : 
 
